@@ -3,4 +3,4 @@ Github hello-world
 
 Hi world,
 
-Kings129 is say hello!
+Kings129 is saying hello!
